@@ -29,8 +29,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var txt6: UITextField!
     
     
-       //Realiza do evento do btoão
-    @IBAction func gerarNumeros(_ sender: Any) {
+        //Realiza ação do botão
+        @IBAction func gerarNumeros(_ sender: Any) {
         //Exibindo um numero randomico
         let bola1 = arc4random_uniform(60)
         
