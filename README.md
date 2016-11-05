@@ -1,5 +1,7 @@
 
-#Olá! 
+#App MegaSena
+
+Olá! 
 
 Pessoal, segue um aplicativo simples 
 para melhorar seus conhecimentos em desenvolvimento em Swift 3.0
