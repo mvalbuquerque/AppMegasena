@@ -1,12 +1,11 @@
 
 #App MegaSena
 
-Olá! 
+Hello! 
 
-Pessoal, segue um aplicativo simples 
-para melhorar seus conhecimentos em desenvolvimento em Swift 3.0
+ Simple application to improve their knowledge in developing Swift 3.0
 
-A ideia do aplicativo é simples: Gerar números aleatorios na tela de 1..60 
+The idea of the app is simple: Generate random numbers in the 1..60 screen
 
 <p align="center">
   <img src="https://github.com/mvalbuquerque/megasena/blob/master/App1.png" width="350"/>
@@ -14,6 +13,6 @@ A ideia do aplicativo é simples: Gerar números aleatorios na tela de 1..60
   <img src="https://github.com/mvalbuquerque/megasena/blob/master/App2.png" width="350"/>
 </p>
 
-Abs, 
+Tks, 
 
 @mvalbuquerque
