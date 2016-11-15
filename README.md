@@ -16,3 +16,6 @@ The idea of the app is simple: Generate random numbers in the 1..60 screen
 Tks, 
 
 @mvalbuquerque
+
+
+[![Swift](https://img.shields.io/badge/swift-3-orange.svg?style=flat)](https://developer.apple.com/swift/) 
